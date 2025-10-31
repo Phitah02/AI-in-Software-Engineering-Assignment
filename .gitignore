@@ -1,0 +1,11 @@
+# Cache files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+*.cache
+node_modules/
+.DS_Store
+Thumbs.db
