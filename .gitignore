@@ -9,3 +9,6 @@ __pycache__/
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Dataset
+Task 3/iuss-23-24-automatic-diagnosis-breast-cancer/
